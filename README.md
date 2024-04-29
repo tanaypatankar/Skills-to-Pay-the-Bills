@@ -1,9 +1,6 @@
+Harsh Shah  Matthew Chang  Meetansh Gupta  Tanay Patankar
 
-**
 
-# Skills to Pay the Bills
-| Harsh Shah | Matthew Chang | Meetansh Gupta| Tanay Patankar |
-|--|--|--|--|
 ## Motivation
 
 This project aims to help job seekers, whether they are new graduates, or have a few years of experience under their belt, to find jobs suited to their skill set. It is tough to find a job that accurately matches the skills that you have. Our project aims to make this easier by recommending jobs that best suit your skills. We also go one step further and suggest some skills that you can pick up in order to be a better match for jobs in your domain. We hope that with this application, we can increase the chances of a jobseeker getting a job that suits them.
